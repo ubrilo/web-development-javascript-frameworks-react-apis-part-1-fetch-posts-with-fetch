@@ -1,0 +1,17 @@
+{
+  "name": "web-development-javascript-frameworks-react-apis-part-1-fetch-posts-with-fetch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-react": "latest"
+  }
+}
